@@ -106,7 +106,7 @@ Iowa State University
 
 **5.**	B. Melugiri-Shankaramurthy, Y. Sargam, **X. Zhang**, W. Sun, K. Wang, and H. Qin*,  “[Evaluation of Cement Paste Containing Recycled Stainless Steel Powder for Sustainable Additive Manufacturing Construction & Building Materials](https://doi.org/10.1016/j.conbuildmat.2019.116696)”, published, **Journal of Construction & Building Materials**, August, 2019
 
-**4.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Submitted, **Journal of Manufacturing Science and Engineering**, April 2019
+**4.** **X. Zhang**, Y. Zheng, S. Wang, Q. Li, B. Li*, and H. Qin*,"Correlation Approach for 3D Surface Measurement Data of Additive Manufacturing Parts Based On Optical Metrology", Accepted, **Journal of Manufacturing Processes**, February 2020
 
 **3.** S. Ravi-Kumar, B. Lies, **X. Zhang**, H. Lyu, and H. Qin*, “[Laser Ablation of Polymers: A Review](https://doi.org/10.1002/PI.5834)” **Polymer International**. 68.8 (2019): 1391-1401. 
 
